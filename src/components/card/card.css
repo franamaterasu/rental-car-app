@@ -1,0 +1,80 @@
+.card__content {
+  background-color: var(--color-blue-two);
+  border-bottom-left-radius: var(--border-radius);
+  border-bottom-right-radius: var(--border-radius);
+  padding: 20px;
+}
+
+.card__header {
+  position: relative;
+  overflow: hidden;
+}
+
+.card__header:hover .card__button {
+  opacity: 1;
+}
+
+.card__image {
+  border-top-left-radius: var(--border-radius);
+  border-top-right-radius: var(--border-radius);
+  height: auto;
+  width: 100%;
+  transition: transform 0.8s ease-in-out;
+}
+
+.card__image:hover {
+  transform: scale(1.2);
+}
+
+.card__button {
+  background-color: var(--color-blue-two);
+  border-radius: var(--border-radius);
+  border: none;
+  color: var(--color-white);
+  font-size: 17px;
+  opacity: 0;
+  padding: 5px 10px;
+  position: absolute;
+  right: 20px;
+  top: 20px;
+  transition: all 0.8s ease-in-out;
+}
+
+.card__button:hover {
+  background-color: var(--color-blue-three);
+  cursor: pointer;
+}
+
+.card__info {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+}
+
+.card__title,
+.card__price {
+  color: var(--color-white);
+}
+
+.card__price,
+.card__button {
+  font-family: var(--main-font);
+  font-weight: var(--font-weight-light);
+}
+
+.card__price {
+  font-size: 21px;
+}
+
+.card__price span {
+  font-family: var(--secondary-font);
+  font-size: 25px;
+  font-weight: var(--font-weight-bold);
+}
+
+.card__title {
+  font-family: var(--secondary-font);
+  font-size: 25px;
+  font-weight: var(--font-weight-bold);
+  text-transform: capitalize;
+}

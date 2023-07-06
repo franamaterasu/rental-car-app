@@ -1,0 +1,28 @@
+.empty-state {
+  width: 100%;
+  text-align: center;
+}
+
+.empty-state.dark .empty-state__icon {
+  color: rgb(13, 12, 41);
+}
+
+.empty-state.light {
+  background-color: var(--color-blue);
+}
+
+.empty-state.light .empty-state__icon,
+.empty-state.light .empty-state__title {
+  color: var(--color-white);
+}
+
+.empty-state__icon {
+  font-size: 140px;
+  margin-bottom: 10px;
+}
+
+.empty-state__title {
+  font-family: var(--main-font);
+  font-weight: var(--font-weight-light);
+  font-size: 40px;
+}

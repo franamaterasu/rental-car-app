@@ -1,0 +1,31 @@
+.list {
+  background-color: var(--color-blue);
+  padding: 0px 200px 100px;
+}
+
+.list__search {
+  background-color: var(--color-blue);
+  padding: 100px 200px 0;
+}
+
+.list__input {
+  border-radius: var(--border-radius);
+  box-sizing: border-box;
+  font-family: var(--main-font);
+  font-size: 19px;
+  font-weight: var(--font-weight-light);
+  margin-bottom: 50px;
+  padding: 10px 30px;
+  width: 100%;
+}
+
+.list__content {
+  display: grid;
+  gap: 50px;
+  grid-template-columns: repeat(3, 1fr);
+}
+
+.list__empty-state {
+  background-color: var(--color-blue);
+  padding-bottom: 100px;
+}

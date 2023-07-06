@@ -1,0 +1,11 @@
+.cart {
+  padding: 70px 200px;
+}
+
+.cart__card {
+  margin-bottom: 50px;
+}
+
+.cart__card:last-of-type {
+  margin-bottom: 0;
+}

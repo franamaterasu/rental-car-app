@@ -1,0 +1,18 @@
+.slider__item {
+  max-height: 900px;
+  position: relative;
+}
+
+.slider__image {
+  height: 100vh;
+}
+
+.slider__title {
+  bottom: 100px;
+  color: var(--color-white);
+  font-family: var(--secondary-font);
+  font-size: 150px;
+  font-weight: var(--font-weight-bold);
+  left: 50px;
+  position: absolute;
+}

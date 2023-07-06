@@ -1,0 +1,12 @@
+:root {
+  --main-font: "Open Sans", sans-serif;
+  --secondary-font: "Roboto", sans-serif;
+  --font-weight-light: 300;
+  --font-weight-bold: 600;
+  --color-white: rgb(255, 255, 255);
+  --color-blue: rgb(4, 9, 31);
+  --color-blue-two: rgb(13, 24, 75);
+  --color-blue-three: rgb(22, 44, 140);
+  --color-grey: rgb(240, 240, 240);
+  --border-radius: 10px;
+}

@@ -1,0 +1,147 @@
+{
+  "cars": [
+    {
+      "id": 1,
+      "image": "https://auto.suzuki.es//storage/images/aygnwgze0pfvrjidwjzsh0rhnmirygygu4ijfxsx.jpg",
+      "banner": "https://auto.suzuki.es/storage/images/jmtlcdauffltnxxlxutqqnletlmwoe09g2btroim.jpg",
+      "title": "s-cross",
+      "price": "145",
+      "description": "Un SUV de estilo atrevido con múltiples sistemas de seguridad avanzada. Aprovecha su gran espacio para llevar a tus amigos, familia o para el equipaje, y la tecnología 4WD ALLGRIP para ayudarte a tomar el control en cualquier superficie. No te preocupes por nada. Prepárate para cruzar la línea.",
+      "hybrid": true,
+      "seats": 5,
+      "doors": 6,
+      "gallery": [
+        "https://auto.suzuki.es/storage/images/8mvomxfrv3oaow8mgaqfxgrjowzxdfuyukfaaexq.jpg",
+        "https://auto.suzuki.es/storage/images/ripuye3ucdplaomghhpmv6rii6h6ftnnqwdjysp1.jpg",
+        "https://auto.suzuki.es/storage/images/ioo2aniapfoqivh1zzflnofyxw1ncquknuyzylhc.jpg"
+      ]
+    },
+    {
+      "id": 2,
+      "image": "https://auto.suzuki.es//storage/images/bppsofctbrypsz0hf5gjsexyd5pfl4zn9qnrejz7.jpg",
+      "banner": "https://auto.suzuki.es/storage/images/wfpqampfjd5kqedj5dtx4jgedkcigtcuvuwthb4h.jpg",
+      "title": "vitara",
+      "price": "170",
+      "description": "Un compañero para lo que te propongas: hazte amigo de esta bestia de la adaptabilidad que abarca las superficies y las condiciones climáticas más desafiantes. Equipado con un exclusivo sistema ALLGRIP de tracción a las cuatro ruedas. Impulsado por los auténticos genes todoterreno Suzuki: alegría sin fin tras el volante gracias al máximo agarre en cualquier momento o circunstancia.",
+      "hybrid": false,
+      "seats": 5,
+      "doors": 6,
+      "gallery": [
+        "https://auto.suzuki.es/storage/images/qrqq3f5vepq8bplbyhhi6ss8h3dllnrssjppkxsc.jpg",
+        "https://auto.suzuki.es/storage/images/sdcx4v3jouss44rbvnpq3g2rh8x62dddlwzhm19p.jpg",
+        "https://auto.suzuki.es/storage/images/nbngtfmcoago9wzzk3vukomspwb3hiitbuiaa6iz.jpg"
+      ]
+    },
+    {
+      "id": 3,
+      "banner": "https://auto.suzuki.es/storage/images/zybpfyirlximugqepd3xhgcdvmgwrjtmovxcei4a.jpg",
+      "image": "https://auto.suzuki.es//storage/images/agt3ctpyhkkjllzsizfnrho6weslx6w4htgrfvd4.jpg",
+      "title": "ignis",
+      "price": "134",
+      "description": "Descubre el único SUV ultra compacto. Un estilo llamativo y distintivo, junto a una frescura urbana como ninguno. Conduce para ti y convierte cada viaje en una aventura.",
+      "hybrid": false,
+      "seats": 5,
+      "doors": 6,
+      "gallery": [
+        "https://auto.suzuki.es/storage/images/glif0jq3wvizrppvdznebl42cpi50xrmgx6mogei.jpg",
+        "https://auto.suzuki.es/storage/images/kzspzgj1xfw2dl5bzomi1kkxvxahnziyqrpiifnd.jpg",
+        "https://auto.suzuki.es/storage/images/crb2hlon4aua8disah58brpbbzbgnbxmzuvdrapl.jpg"
+      ]
+    },
+    {
+      "id": 4,
+      "banner": "https://auto.suzuki.es/storage/images/0iubauistoifwl6xio2tyjwuquum6trqn9pb5gf6.jpg",
+      "image": "https://auto.suzuki.es//storage/images/tjiijwgvcbsoprund49nksmyudchvokbsasikic0.jpg",
+      "title": "swift",
+      "price": "99",
+      "description": "Ya sea para una tarde de compras por la ciudad o para una escapada de fin de semana, el Swift te llevará y traerá de la manera más cómoda y elegante.",
+      "hybrid": true,
+      "seats": 5,
+      "doors": 6,
+      "gallery": [
+        "https://auto.suzuki.es/storage/images/5fihdglqsiralduky6mrldvrii9ormqt4wg9mqwu.jpg",
+        "https://auto.suzuki.es/storage/images/adzoz3mhaxsjfgvg7ikwydgl09hs0obg4cohqwkw.jpg",
+        "https://auto.suzuki.es/storage/images/db24il0qxmitsydgqzf1naguagnvsq9xaclbvvrh.jpg"
+      ]
+    },
+    {
+      "id": 5,
+      "banner": "https://auto.suzuki.es/storage/images/21ak7wld0tzdolvuhfou2qy31ehd8ykj6n62xlwa.jpg",
+      "image": "https://auto.suzuki.es//storage/images/ivwwosougrck7rfmsuoinrm83bundgp7exao2sgx.jpg",
+      "title": "swift sport",
+      "price": "99",
+      "description": "Una sensación punzante que recorre tu cuerpo. Maniobrabilidad suave y máximo control. Una renovación completa: conducción deportiva y un rendimiento sobresaliente. Presentamos el nuevo Swift Sport. Un compacto deportivo y excitante.",
+      "hybrid": true,
+      "seats": 5,
+      "doors": 3,
+      "gallery": [
+        "https://auto.suzuki.es/storage/images/e29nqxwbgtevnpwqsopg8nefncucqzbu6zhtmg4z.jpg",
+        "https://auto.suzuki.es/storage/images/edzygtf47vlteskbfpuvjic0hir6kfw1w1aqc8p9.jpg",
+        "https://auto.suzuki.es/storage/images/x2yqz9rcowvstckhvuldbly5cci64mlo1jizet7u.jpg"
+      ]
+    },
+    {
+      "id": 6,
+      "banner": "https://auto.suzuki.es/storage/images/t8tph7wdn9rwami00hqip1ynhcirprdwvivves0q.jpg",
+      "image": "https://auto.suzuki.es//storage/images/9y1uzxsibzarng5gty13h3wqa6bocoudqwv708ji.jpg",
+      "title": "jimny",
+      "price": "130",
+      "description": "Nada se interpone en tu camino cuando conduces un Jimny. Deja que te lleve a donde quieras con su agilidad sin rival, control preciso y su poderoso par motor cuando más lo necesitas.",
+      "seats": 2,
+      "doors": 3,
+      "gallery": [
+        "https://cdn.topgear.es/sites/navi.axelspringer.es/public/media/image/2023/04/suzuki-jimny-twisted-3021424.jpg?tf=1200x",
+        "https://www.autobild.es/sites/autobild.es/public/styles/main_element/public/dc/fotos/Suzuki_Jimny_Pro_03_0.jpg?itok=_pc6OQol",
+        "https://www.largus.fr/images/styles/diaporama_viewer/public/2023-01/suzuki-jimny-5p-2023-jaune-ard.jpg?itok=T87g2JIN"
+      ]
+    },
+    {
+      "id": 7,
+      "banner": "https://auto.suzuki.es/storage/images/cdhl7x1y0tpidgqmdqierpoceegwpv02gheanpnl.jpg",
+      "image": "https://auto.suzuki.es//storage/images/bsw0wkfuq2piqpshgdo8dncbklr1v2pufdbp5gpc.jpg",
+      "title": "across",
+      "price": "160",
+      "description": "Deja atrás las limitaciones con el Across. Tecnología innovadora híbrida enchufable con toda la libertad que te ofrece un SUV 4x4, lo último en eficiencia y placer de conducción. Ahora, nada puede pararte.",
+      "hybrid": false,
+      "seats": 5,
+      "doors": 6,
+      "gallery": [
+        "https://auto.suzuki.es/storage/images/sazctgehqkzxte8jlrjzno2eyurjcy7tkmwaralo.jpg",
+        "https://auto.suzuki.es/storage/images/8j89rf4v8w1a6h4c2jkr99ur843ux1if6hv0hflg.jpg",
+        "https://auto.suzuki.es/storage/images/bnoxtsumkddzrvi0yimq6e6jji6j0bcggnohf2ij.jpg"
+      ]
+    },
+    {
+      "id": 8,
+      "banner": "https://auto.suzuki.es/storage/images/nnm3l3v1wykvibkaenexy0z15ytyqnjy7bwh4d9o.jpg",
+      "image": "https://auto.suzuki.es//storage/images/cyixr0of9hn0al13fbied00qdru8spv5pvsu435y.jpg",
+      "title": "swace",
+      "price": "110",
+      "description": "Donde quiera que vayas, disfruta de una refinada sensación de equilibrio y estilo. Espacioso, cómodo y eficiente, hace más facil tu día a día. Disfruta cada día del placer de conducir de forma ecológica.",
+      "hybrid": false,
+      "seats": 5,
+      "doors": 6,
+      "gallery": [
+        "https://auto.suzuki.es/storage/images/akyjl1dhhlqysvkbuovsn8yju41dpoouaci77kcp.jpg",
+        "https://auto.suzuki.es/storage/images/4xvr43k24jgoxyzgusjrw4h4cgre1grtoyjcstb9.jpg",
+        "https://auto.suzuki.es/storage/images/rckt3bwsogpyzqqtpomjgxbeodarazpn41pg8n94.jpg"
+      ]
+    },
+    {
+      "id": 9,
+      "banner": "https://auto.suzuki.es/storage/images/60aznxa3fno7fiuvp7bre2ql9arpds5zx1iwf3nn.jpg",
+      "image": "https://auto.suzuki.es//storage/images/u84gaejwulthxzn4lm4cricdri807kxpe6aegmtx.jpg",
+      "title": "swift sport 20º aniversario",
+      "price": "96",
+      "description": "Suzuki Motor Ibérica celebra en este 2023 dos décadas de éxitos, y para conmemorarlo lanza un Edición Limitada de uno de los modelos más emblemáticos de la marca, el Swift Sport. Solamente 35 unidades disponibles, numeradas, y con placa identificativa. Descubre todas las sorpresas que esconde esta unidad tan especial, y disfruta de una experiencia única.",
+      "hybrid": true,
+      "seats": 5,
+      "doors": 3,
+      "gallery": [
+        "https://auto.suzuki.es/storage/images/xd7wymgcukc8sxl1s2dfudgj2cjma1exzfbi2n4x.jpg",
+        "https://auto.suzuki.es/storage/images/cfdsbvjxzznkcxj6xokeif5fr1zpynlfs4q0xptk.jpg",
+        "https://auto.suzuki.es/storage/images/qd4prjrrieforckysx2vobhrzwnxuqzyqk478sha.jpg"
+      ]
+    }
+  ]
+}
